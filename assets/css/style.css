@@ -724,7 +724,7 @@ body.nav-active { overflow: hidden; }
 }
 
 #contact{
-  background:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(../images/blog3.jpg);
+  background:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(/assets/images/blog3.jpg);
 }
 #msg{
   width: 100%;
