@@ -718,8 +718,21 @@ body.nav-active { overflow: hidden; }
   font-weight: var(--fw-700);
 }
 
+#btn1{
+  background-color: black;
+}
 
-
+#contact{
+  background-color: black;
+}
+#msg{
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+#loc{
+  margin-top: 10px;
+}
 
 
 /*-----------------------------------*\
@@ -953,8 +966,8 @@ body.nav-active { overflow: hidden; }
    * FOOTER
    */
 
-  .footer .grid-list { grid-template-columns: repeat(4, 1fr); }
-
+  .footer .grid-list { grid-template-columns: repeat(4, 1fr); 
+  }
 }
 
 
