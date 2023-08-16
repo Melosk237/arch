@@ -717,14 +717,14 @@ body.nav-active { overflow: hidden; }
   padding-inline: 24px;
   font-weight: var(--fw-700);
 }
-
+  /* Contact Page */
 #btn1{
   background-color: black;
   margin-left: 10px;
 }
 
 #contact{
-  background:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(/assets/images/blog3.jpg);
+  background:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(../images/blog4.jpg);
 }
 #msg{
   width: 100%;
